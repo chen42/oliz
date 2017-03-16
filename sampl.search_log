@@ -1,0 +1,126 @@
+
+-->>Rn.220
+
+  oligo_0: Z12651 49/50, 50mer=98% 	->98 % similar to Z12651, discard. 
+
+  oligo_1: Z12651 44/44, 50mer=96% 	->96 % similar to Z12651, discard. 
+
+  oligo_2 has more than 4 continuous G, discard.
+
+  oligo_3: M93257 50/50, 50mer=100% 	=>Exact match, but M93257 is not in Rn.220, overall it's 76.2% similar to contig
+  oligo_3: AI008029 50/50, 50mer=100% 	=>Exact match, but AI008029 is not in Rn.220, overall it's 93.6% similar to contig
+  oligo_3: Z12651 47/47, 50mer=98% 	->98 % similar to Z12651, discard. 
+
+
+-->blasting again, excluding EST
+
+-->>Rn.220
+
+  oligo_0: Z12651 49/50, 50mer=98% 	->98 % similar to Z12651, discard. 
+
+  oligo_1: Z12651 44/44, 50mer=96% 	->96 % similar to Z12651, discard. 
+
+>>oligo_2 has more than 4 continuous G, discard.
+
+  oligo_3: M93257 50/50, 50mer=100% 	=>Exact match, but M93257 is not in Rn.220, overall it's 76.2% similar to contig
+  oligo_3: Z12651 47/47, 50mer=98% 	->98 % similar to Z12651, discard. 
+
+ 	XX: Rn.220 has no satisfactory oligo 
+
+-->>Rn.506
+
+  oligo_0: U18650 17/17, 50mer=52%  >15 cont. bp, discard. 
+
+  oligo_1: AI169321 15/15, 50mer=42% 
+  oligo_1: AW917912 18/19, 50mer=52% 
+  oligo_1: BF282835 15/15, 50mer=42% 
+  oligo_1: BF290832 15/15, 50mer=34% 
+  oligo_1: BF555565 15/15, 50mer=44% 
+  oligo_1: BI296347 15/15, 50mer=42% 
+  oligo_1: BI279019 15/15, 50mer=50% 
+-->>Rn.977
+
+  oligo_0: X16044 50/50, 50mer=100% 	=>Exact match, but X16044 is not in Rn.977, overall it's 96.4% similar to contig
+  oligo_0: AW914663 41/43, 50mer=90% 	->90 % similar to AW914663, discard. 
+
+  oligo_1: AA956483 19/20, 50mer=50% 
+  oligo_1: AW522693 19/20, 50mer=50% 
+  oligo_1: BG372655 19/20, 50mer=50% 
+  oligo_1: BG372715 19/20, 50mer=50% 
+  oligo_1: BG664263 19/20, 50mer=50% 
+  oligo_1: BG665494 19/20, 50mer=50% 
+  oligo_1: BG667031 19/20, 50mer=44% 
+  oligo_1: BG668060 19/20, 50mer=50% 
+  oligo_1: BG668448 19/20, 50mer=50% 
+  oligo_1: BG669227 19/20, 50mer=50% 
+  oligo_1: BG669909 19/20, 50mer=52%  >15 cont. bp, discard. 
+
+
+-->blasting again, excluding EST
+
+-->>Rn.977
+
+  oligo_0: X16044 50/50, 50mer=100% 	=>Exact match, but X16044 is not in Rn.977, overall it's 96.4% similar to contig
+  oligo_0: L14851 14/14, 50mer=40% 
+  oligo_0: M58758 14/14, 50mer=38% 
+  oligo_0: NM_031604 14/14, 50mer=38% 
+-->>Rn.1129
+
+  oligo_0: X58375 15/15, 50mer=48% 
+  oligo_0: AA817860 15/15, 50mer=46% 
+  oligo_0: AI231545 15/15, 50mer=42% 
+  oligo_0: AA866413 15/15, 50mer=52%  >15 cont. bp, discard. 
+
+  oligo_1: BF402349 23/25, 50mer=60%  >15 cont. bp, discard. 
+
+
+-->blasting again, excluding EST
+
+-->>Rn.1129
+
+  oligo_0: X58375 15/15, 50mer=48% 
+  oligo_0: NM_012969 15/15, 50mer=48% 
+  oligo_0: M64235 14/14, 50mer=38% 
+  oligo_0: AH002254 14/14, 50mer=38% 
+  oligo_0: X90845 14/14, 50mer=52% 
+  oligo_0: AF084186 14/14, 50mer=52% 
+  oligo_0: AF100154 14/14, 50mer=54% 
+  oligo_0: AF329652 14/14, 50mer=38% 
+  oligo_0: AF379608 14/14, 50mer=36% 
+-->>Rn.1429
+
+  oligo_0: X13804 49/50, 50mer=80% 	->80 % similar to X13804, discard. 
+
+  oligo_1: X13804 50/51, 50mer=90% 	->90 % similar to X13804, discard. 
+
+  oligo_2: X13804 46/47, 50mer=66%  >15 cont. bp, discard. 
+
+  oligo_3: X13804 49/51, 50mer=82% 	->82 % similar to X13804, discard. 
+
+
+-->blasting again, excluding EST
+
+-->>Rn.1429
+
+  oligo_0: X13804 49/50, 50mer=80% 	->80 % similar to X13804, discard. 
+
+  oligo_1: X13804 50/51, 50mer=90% 	->90 % similar to X13804, discard. 
+
+  oligo_2: X13804 46/47, 50mer=66%  >15 cont. bp, discard. 
+
+  oligo_3: X13804 49/51, 50mer=82% 	->82 % similar to X13804, discard. 
+
+ 	XX: Rn.1429 has no satisfactory oligo 
+
+-->>Rn.1472
+
+  oligo_0: AI227961 46/50, 50mer=92% 	->92 % similar to AI227961, discard. 
+
+  oligo_1: BG376015 48/50, 50mer=96% 	->96 % similar to BG376015, discard. 
+
+
+-->blasting again, excluding EST
+
+-->>Rn.1472
+
+  oligo_0: AF314960 14/14, 50mer=46% 
